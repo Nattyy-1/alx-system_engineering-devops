@@ -1,2 +1,2 @@
 #!/bin/bash
-su chown vincent -R chgrp staff -R
+chown vincent -R chgrp staff -R
